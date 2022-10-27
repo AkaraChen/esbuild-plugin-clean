@@ -1,0 +1,25 @@
+{
+  "name": "@akrc/esbuild-plugin-clean",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [
+    "esbuild",
+    "esbuild-plugin"
+  ],
+  "author": "akarachen",
+  "license": "MIT",
+  "files": [
+    "./cjs.cjs",
+    "./esm.mjs"
+  ],
+  "exports": {
+    ".": {
+      "import": "./esm.mjs",
+      "require": "./cjs.cjs"
+    }
+  },
+  "dependencies": {
+    "rimraf": "^3.0.2"
+  }
+}
