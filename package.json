@@ -1,6 +1,6 @@
 {
   "name": "@akrc/esbuild-plugin-clean",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "",
   "main": "index.js",
   "keywords": [
@@ -11,7 +11,8 @@
   "license": "MIT",
   "files": [
     "./cjs.cjs",
-    "./esm.mjs"
+    "./esm.mjs",
+    "./index.d.ts"
   ],
   "exports": {
     ".": {
