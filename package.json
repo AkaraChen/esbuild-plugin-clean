@@ -1,6 +1,6 @@
 {
   "name": "@akrc/esbuild-plugin-clean",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "",
   "main": "index.js",
   "keywords": [
@@ -21,5 +21,6 @@
   },
   "dependencies": {
     "rimraf": "^3.0.2"
-  }
+  },
+  "typings": "./index.d.ts"
 }
