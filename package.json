@@ -21,7 +21,7 @@
     }
   },
   "dependencies": {
-    "rimraf": "4.1.2"
+    "rimraf": "4.3.0"
   },
   "typings": "./index.d.ts"
 }
