@@ -1,10 +1,10 @@
 lockfileVersion: 5.4
 
 specifiers:
-  rimraf: 4.3.1
+  rimraf: 4.4.0
 
 dependencies:
-  rimraf: 4.3.1
+  rimraf: 4.4.0
 
 packages:
 
@@ -57,8 +57,8 @@ packages:
       minipass: 4.2.4
     dev: false
 
-  /rimraf/4.3.1:
-    resolution: {integrity: sha512-GfHJHBzFQra23IxDzIdBqhOWfbtdgS1/dCHrDy+yvhpoJY5TdwdT28oWaHWfRpKFDLd3GZnGTx6Mlt4+anbsxQ==}
+  /rimraf/4.4.0:
+    resolution: {integrity: sha512-X36S+qpCUR0HjXlkDe4NAOhS//aHH0Z+h8Ckf2auGJk3PTnx5rLmrHkwNdbVQuCSUhOyFrlRvFEllZOYE+yZGQ==}
     engines: {node: '>=14'}
     hasBin: true
     dependencies:
